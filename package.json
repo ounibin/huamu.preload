@@ -1,0 +1,19 @@
+{
+  "name": "template-npm",
+  "version": "0.0.1",
+  "description": "一款基于nodejs的股票爬虫工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "author": "wangkj",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.3.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
